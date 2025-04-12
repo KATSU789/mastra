@@ -1,0 +1,13 @@
+# oldディレクトリは親ディレクトリにあるため、このリポジトリの範囲外になりました
+# .mastra関連のファイルを無視
+.mastra/
+output/
+node_modules/
+dist
+.mastra
+.env.development
+.env
+*.db
+*.db-*
+
+
